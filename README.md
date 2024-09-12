@@ -1,5 +1,5 @@
 <h1 align ="center">REACT FORM</h1>
-<h2><a href="https://mmjtechnologies.netlify.app/" target="_blank">Website Link</a></h2>
+<h2><a href="https://mmjtechnologies-react-form.netlify.app/" target="_blank">Website Link</a></h2>
 <img src="cover.PNG">
  <h3  align ="center"><b>Student Registration Form using React</b></h3>
  <br>
