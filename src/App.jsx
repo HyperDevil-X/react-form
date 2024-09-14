@@ -39,7 +39,7 @@ const App = () =>
                   <label>Username:</label>
                   <input type = "text" name="Username" placeholder="Enter your username" spellCheck="true" required onChange={changeHandle} style={{marginLeft:'9.8%'}} /><br/>
                   <label>Password:</label>
-                    <input type = "text" name="Password" placeholder="Enter your password" spellCheck="true" required onChange={changeHandle} style={{marginLeft:'10.5%'}}/><br/>
+                    <input type = "password" name="Password" placeholder="Enter your password" spellCheck="true" required onChange={changeHandle} style={{marginLeft:'10.5%'}}/><br/>
                   <label>Department:</label>
                     <select name="Dept" onChange={changeHandle} required style={{marginLeft:'7%'}}>
                       <option value= "" disabled selected>Select your department...</option>
